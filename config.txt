@@ -1,0 +1,2 @@
+file 'Resultados/ComunionGema-9_fade.mp4'
+file 'logo_fade.mp4'
